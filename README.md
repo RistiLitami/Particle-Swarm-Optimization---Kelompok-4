@@ -1,6 +1,6 @@
 # Particle-Swarm-Optimization---Kelompok-4
 
-Tugas Kelompok Mata Kuliah Artificial Inteligent
+Tugas Kelompok Mata Kuliah Artificial Intelligence
 
 Disusun oleh kelompok 4 :
 

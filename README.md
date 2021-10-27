@@ -12,3 +12,6 @@ Disusun oleh kelompok 4 :
    6. Rianti Agustina (09011181924150)
    7. Risti Auliah Utami (09011381924099)
    8. Wilda Septriyanti (09011381924101
+
+Sumber Kode dari :
+https://github.com/sotostzam/particle-swarm-optimization
